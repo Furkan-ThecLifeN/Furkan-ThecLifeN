@@ -13,3 +13,6 @@ git commit -m "first save"
 git log save kayıtlı dosyalara geri dönmek için anahtar verir
 git checkout "anahtar" -- .
 git dif = değişiklikleri kontrol eder
+git checkout "dosya ismi" yaparsak yapılan değişiklikleri geri alır
+git rm "dosya/klasör ismi" onu siler
+git mv "dosya ismi" "koycağın isim" isim değiştirir
