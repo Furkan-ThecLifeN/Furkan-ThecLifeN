@@ -1,0 +1,15 @@
+pwd şuanki baktığı konumu 
+ls ise dosyaları gözüktürür
+cd .. konumu geri alır
+cd "konum ismi" o konuma yollar
+mkdir "Klasör ismi " oluşturur
+touch "dosya ismi" oluşturur
+git init = anahtar görevi görür ve server açar arka planda kayıt için
+git config --global user.name "isim"
+git config --global user.email "email" 
+git status Konumunun ayrıntısını verir ve kayıt edilmeyenleri söyler
+git add . kayıt eder
+git commit -m "first save"
+git log save kayıtlı dosyalara geri dönmek için anahtar verir
+git checkout "anahtar" -- .
+git dif = değişiklikleri kontrol eder
