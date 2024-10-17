@@ -16,3 +16,8 @@ git dif = değişiklikleri kontrol eder
 git checkout "dosya ismi" yaparsak yapılan değişiklikleri geri alır
 git rm "dosya/klasör ismi" onu siler
 git mv "dosya ismi" "koycağın isim" isim değiştirir
+git remote add origin "github link" uzaktan sever bağlantı sağlar
+git push -u origin master 
+
+
+
